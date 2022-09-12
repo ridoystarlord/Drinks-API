@@ -1,0 +1,8 @@
+*.*~
+.idea/
+*.pc
+__pycache__/
+venv/*
+local_settings.py
+media/*
+static/*
